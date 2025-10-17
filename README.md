@@ -61,6 +61,3 @@ You can also view the notebook directly on GitHub or platforms like **Google Col
 ## 👩‍💻 Author
 **Aditi K**  
 CSE (AI & ML) | SMS Spam Detection | NB 
-
-    ```
-4.  **Open `SMS_spam_detection_nb.ipynb`** and run the cells sequentially to execute the full data preprocessing, model training, and evaluation.
